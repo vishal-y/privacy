@@ -8,6 +8,9 @@ let links = ["https://drive.google.com/drive/u/1/my-drive","https://www.instagra
 
 links.forEach(check);
 
+// change password if you want
+const password = "@password";
+
 function check(lockurl){
     if(url==lockurl){
         
@@ -80,7 +83,7 @@ function check(lockurl){
 
             let pass = document.getElementById('pass').value;
 
-            if(pass=="@password"){
+            if(pass==password){
                     enableScroll();
                     document.getElementById('maindiv').remove();
                     console.log("enable")
