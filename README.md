@@ -16,9 +16,7 @@ A simple extenstion for chrome , brave , edge to set a password for particular w
 
 ![extenstion](https://raw.githubusercontent.com/vishal-y/privacy/main/demo/6wx267.gif)
 
-## star ⭐
-
-Give a star to this repo ⭐
+## Give a star  to this repo ⭐
 
 ## How to install 
 
@@ -32,4 +30,4 @@ Give a star to this repo ⭐
 
 - Done 😎😎
 
-# Note :- initial passowrd is ' @password ' you can change it if you want 😁.
+## Note :- initial passowrd is ' @password ' you can change it if you want 😁.
