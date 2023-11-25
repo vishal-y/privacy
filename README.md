@@ -1,7 +1,4 @@
 
-![Logo](https://raw.githubusercontent.com/vishal-y/privacy/main/privacy%20extenstion/logo.png)
-
-
 # Privacy 🔒
 
 A simple extenstion for chrome , brave , edge to set a password for particular website 💻.
@@ -16,7 +13,6 @@ A simple extenstion for chrome , brave , edge to set a password for particular w
 
 ![extenstion](https://raw.githubusercontent.com/vishal-y/privacy/main/demo/6wx267.gif)
 
-## Give a star  to this repo ⭐
 
 ## How to install 
 
